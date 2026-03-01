@@ -1,0 +1,893 @@
+[
+  {
+    "url": "https://reliefweb.int/disaster/eq-2022-000363-idn",
+    "title": "Indonesia: Earthquake - Nov 2022",
+    "country": "Indonesia",
+    "disaster_description": "An earthquake of 5.6 M at a depth of 10 km occurred in West Java Province (Indonesia) on 21 November at 6.21 UTC (13.21 local time). The epicentre of the earthquake was on land, about 10 km south-west of Cianjur Regency (West Java Province). USGS PAGER estimates that up to 242,000 people were exposed to very strong shaking and up to 978,000 people to strong shaking. The earthquake event was felt as well in the Jakarta Capital City, according to media reports. According to the Indonesian National Board for Disaster Management (BNPB), two people died and four others sustained injuries in Cianjur. Initial damage estimations report at least seven destroyed houses, two damaged government buildings, three damaged educational facilities, and one damaged place of worship. Warnings for heavy rainfall accompanied by lightning and strong winds have been issued for 21-22 November over West Java, including Cianjur Regency. ( ECHO, 21 Nov 2022 ) A deadly 5.6-magnitude earthquake struck western Indonesia Monday, killing at least 162 people and injuring hundreds in Cianjur in West Java. Hundreds of structures were destroyed or damaged in the area, where landslides are frequent. Thousands are estimated to have been displaced from their homes, and medical facilities were treating patients outdoors. Search and rescue operations are ongoing. ( Direct Relief, 21 Nov 2022 ) According to the Indonesian National Board for Disaster Management (BNPB), the number of fatalities reached 271 people while 40 people are still missing, and more than 2,000 have been injured. In addition, 61,908 people have been displaced, while 22,241 houses have been seriously damaged, 11,641 moderately damaged, and 22,090 slightly damaged. ( ECHO, 24 Nov 2022 ) According to the latest official estimate as of November 24, 100 children under 15 years have lost their lives, making up 37 per cent of the 272 total number of persons killed. Reports indicate that 2,046 persons have been injured, 39 persons are missing ​and 62,882 persons have been displaced. Damage assessments show that 45 schools have been affected in the earthquake area. An estimated 18 students and 5 teachers are reported as casualties, and 267 students and 10 teachers have been injured. ( UNICEF, 25 Nov 2022 ) As of 27 November, 321 people have been confirmed killed, with 595 people seriously injured and more than 10,000 people slightly injured. The Government has registered 73,874 displaced people (including 92 people with disability, 1,207 pregnant women, and 4,240 elderly people) and more than 62,000 houses were reported damaged at various level of severity. The earthquake also damaged 342 schools and other educational facilities. ( OCHA, 28 Nov 2022 ) The number of casualties has increased across the West Java Province (Indonesia) due to the 5.6M earthquake at a depth of 10 km that occurred on 21 November at 6.21 UTC in Cianjur Regency. The Indonesian National Board for Disaster Management (BNPB) reports, as of 29 November, 327 fatalities, 13 people still missing, 68 injured people currently hospitalised in Cianjur Town regional hospital and a total of approximately 108,700 evacuated people across several evacuation points. ( ECHO, 30 Nov 2022 ) Following Cianjur earthquake in West Java, the National Disaster Mitigation Agency (BNPB) reported around 7,700 people were injured due to falling structures and debris while 73,000 people were displaced, and about 62,000 housing units and 368 schools were either damaged or destroyed. The government confirmed that assistance for renovating houses affected by the earthquake would begin this week. Indonesia experienced multiple earthquakes above 6 M this week including 6.2 M earthquake in East Java province on 6 December at a depth of 10 km. One person was injured and four houses were damaged in the town of Garut and 6.1 M earthquake in West Java at the of 104 km on 8 December according to BNPB. ( ECHO, 8 Dec 2022 ) According to the damage assessment results, more than 56,000 houses, 701 schools and 18 health facilities were damaged along with other critical infrastructure. The Government of Indonesia at the district level with the support of the National Disaster Management Agency (BNPB) and other\nline ministries led the emergency response to address the needs of shelter, clean water, medical care and protection and other challenges facing children and communities. ( UNICEF, 31 Dec 2022 )",
+    "alert_level": null,
+    "impact": {
+      "magnitude": 5.6,
+      "depth_km": 10,
+      "deaths": 327,
+      "injured": 68,
+      "missing": 13,
+      "displaced": 108700,
+      "affected_population": null,
+      "houses_destroyed": 62000,
+      "houses_damaged": null,
+      "schools_affected": 701,
+      "hospitals_affected": null,
+      "population_exposed_to_shaking": 242000
+    },
+    "headlines_from_main_page": [
+      {
+        "title": "Disaster Management Reference Handbook (June 2025) - Indonesia",
+        "url": "https://reliefweb.int/report/indonesia/disaster-management-reference-handbook-june-2025-indonesia",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Restoring Education After Earthquakes: A Lifeline for Children and a Catalyst for Recovery",
+        "url": "https://reliefweb.int/report/indonesia/restoring-education-after-earthquakes-lifeline-children-and-catalyst-recovery",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Realizing Education's Promise: Rebuilding Indonesia's Madrasahs and Returning Students to the Classroom After an Earthquake",
+        "url": "https://reliefweb.int/report/indonesia/realizing-educations-promise-rebuilding-indonesias-madrasahs-and-returning-students-classroom-after-earthquake",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Nat cat loss events 2022: Natural catastrophes caused overall losses of US$ 270bn worldwide",
+        "url": "https://reliefweb.int/map/world/nat-cat-loss-events-2022-natural-catastrophes-caused-overall-losses-us-270bn-worldwide",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Asia and the Pacific: Weekly Regional Humanitarian Snapshot ( 3-9 January 2023)",
+        "url": "https://reliefweb.int/report/myanmar/asia-and-pacific-weekly-regional-humanitarian-snapshot-3-9-january-2023",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Earthquakes global overview 1 July – 31 December 2022 | DG ECHO Daily Map | 09/01/2023",
+        "url": "https://reliefweb.int/map/world/earthquakes-global-overview-1-july-31-december-2022-dg-echo-daily-map-09012023",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Indonesia: Cianjur Earthquake, DREF Final Report (MDRID025)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-cianjur-earthquake-dref-final-report-mdrid025",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "After Action Review: Cash-based Response Cianjur, Indonesia 2022 Earthquake",
+        "url": "https://reliefweb.int/report/indonesia/after-action-review-cash-based-response-cianjur-indonesia-2022-earthquake",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Indonesia: Impact Monitoring of Hydrometeorological Hazards (July – September (Q3) 2022)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-impact-monitoring-hydrometeorological-hazards-july-september-q3-2022",
+        "section": "Latest Updates"
+      }
+    ],
+    "view_all_updates_url": "https://reliefweb.int/updates?list=Indonesia%3A%20Earthquake%20-%20Nov%202022%20Updates&advanced-search=%28D51392%29",
+    "label": "Indonesia Earthquake Nov 2022",
+    "event_type": "Recent",
+    "total_headlines_main_page": 9,
+    "all_update_headlines": [
+      {
+        "title": "Disaster Management Reference Handbook (June 2025) - Indonesia",
+        "url": "https://reliefweb.int/report/indonesia/disaster-management-reference-handbook-june-2025-indonesia",
+        "source": "CFE-DM",
+        "date": "2025-06-24T00:46:55+00:00"
+      },
+      {
+        "title": "Restoring Education After Earthquakes: A Lifeline for Children and a Catalyst for Recovery",
+        "url": "https://reliefweb.int/report/indonesia/restoring-education-after-earthquakes-lifeline-children-and-catalyst-recovery",
+        "source": "MPBI",
+        "date": "2025-04-18T00:00:00+00:00"
+      },
+      {
+        "title": "Realizing Education's Promise: Rebuilding Indonesia's Madrasahs and Returning Students to the Classroom After an Earthquake",
+        "url": "https://reliefweb.int/report/indonesia/realizing-educations-promise-rebuilding-indonesias-madrasahs-and-returning-students-classroom-after-earthquake",
+        "source": "World Bank",
+        "date": "2024-05-03T13:42:02+00:00"
+      },
+      {
+        "title": "Indonesia: Cianjur Earthquake, DREF Final Report (MDRID025)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-cianjur-earthquake-dref-final-report-mdrid025",
+        "source": "IFRC",
+        "date": "2023-12-08T07:01:40+00:00"
+      },
+      {
+        "title": "Cash and Voucher Assistance (CVA) for students with disabilities - Cianjur Earthquakes",
+        "url": "https://reliefweb.int/report/indonesia/cash-and-voucher-assistance-cva-students-disabilities-cianjur-earthquakes",
+        "source": "Plan International",
+        "date": "2023-10-17T04:33:55+00:00"
+      },
+      {
+        "title": "Prioritising Women in the Cianjur Earthquake Response Saves Lives",
+        "url": "https://reliefweb.int/report/indonesia/prioritising-women-cianjur-earthquake-response-saves-lives",
+        "source": "UNFPA",
+        "date": "2023-10-12T06:13:27+00:00"
+      },
+      {
+        "title": "After Action Review: Cash-based Response Cianjur, Indonesia 2022 Earthquake",
+        "url": "https://reliefweb.int/report/indonesia/after-action-review-cash-based-response-cianjur-indonesia-2022-earthquake",
+        "source": "Asia-Pacific RCWG",
+        "date": "2023-10-09T10:47:24+00:00"
+      },
+      {
+        "title": "FH Kids Clubs help children flourish after disaster in Indonesia",
+        "url": "https://reliefweb.int/report/indonesia/fh-kids-clubs-help-children-flourish-after-disaster-indonesia",
+        "source": "Food for the Hungry",
+        "date": "2023-10-06T17:45:56+00:00"
+      },
+      {
+        "title": "CBi Annual Report 2022",
+        "url": "https://reliefweb.int/report/cote-divoire/cbi-annual-report-2022",
+        "source": "CBi",
+        "date": "2023-09-12T05:57:52+00:00"
+      },
+      {
+        "title": "Build Back Better in Disaster Recovery Phase in Cugenang Sub-District [EN/ID]",
+        "url": "https://reliefweb.int/report/indonesia/build-back-better-disaster-recovery-phase-cugenang-sub-district-enid",
+        "source": "YEU",
+        "date": "2023-06-01T03:19:22+00:00"
+      },
+      {
+        "title": "Women Serve as the Backbone of Cianjur Earthquake Response",
+        "url": "https://reliefweb.int/report/indonesia/women-serve-backbone-cianjur-earthquake-response",
+        "source": "UNFPA",
+        "date": "2023-05-10T00:57:46+00:00"
+      },
+      {
+        "title": "Nat cat loss events 2022: Natural catastrophes caused overall losses of US$ 270bn worldwide",
+        "url": "https://reliefweb.int/map/world/nat-cat-loss-events-2022-natural-catastrophes-caused-overall-losses-us-270bn-worldwide",
+        "source": "Munich Re",
+        "date": "2023-04-13T21:27:40+00:00"
+      },
+      {
+        "title": "Climate change and La Niña driving losses: the natural disaster figures for 2022",
+        "url": "https://reliefweb.int/report/world/climate-change-and-la-nina-driving-losses-natural-disaster-figures-2022",
+        "source": "Munich Re",
+        "date": "2023-04-13T21:23:50+00:00"
+      },
+      {
+        "title": "Plan Indonesia assists in the recovery of more than 2,000 children after Cianjur earthquake",
+        "url": "https://reliefweb.int/report/indonesia/plan-indonesia-assists-recovery-more-2000-children-after-cianjur-earthquake",
+        "source": "Plan International",
+        "date": "2023-04-11T13:38:40+00:00"
+      },
+      {
+        "title": "CRED Crunch Newsletter, Issue No. 70 (April 2023) - Disasters Year in Review 2022",
+        "url": "https://reliefweb.int/report/world/cred-crunch-newsletter-issue-no-70-april-2023-disasters-year-review-2022",
+        "source": "CRED",
+        "date": "2023-04-05T21:12:37+00:00"
+      },
+      {
+        "title": "Indonesia Annual Country Report 2022 - Country Strategic Plan 2021 - 2025",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-annual-country-report-2022-country-strategic-plan-2021-2025",
+        "source": "WFP",
+        "date": "2023-04-02T04:24:15+00:00"
+      },
+      {
+        "title": "Indonesia: Impact Monitoring of Hydrometeorological Hazards (October – December (Q4) 2022)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-impact-monitoring-hydrometeorological-hazards-october-december-q4-2022",
+        "source": "Govt. Indonesia",
+        "date": "2023-03-02T11:28:05+00:00"
+      },
+      {
+        "title": "Caritas Indonesia Newsletter, Belarasa Kita - Issue 20, February 2023",
+        "url": "https://reliefweb.int/report/indonesia/caritas-indonesia-newsletter-belarasa-kita-issue-20-february-2023",
+        "source": "Caritas",
+        "date": "2023-02-21T04:38:00+00:00"
+      },
+      {
+        "title": "UNICEF Indonesia COVID-19 Situation Report: October - December 2022",
+        "url": "https://reliefweb.int/report/indonesia/unicef-indonesia-covid-19-situation-report-october-december-2022",
+        "source": "UNICEF",
+        "date": "2023-02-01T13:45:26+00:00"
+      },
+      {
+        "title": "Overcoming The Cianjur Earthquake Situation, Ihani is Prepared To Become A Facilitator",
+        "url": "https://reliefweb.int/report/indonesia/overcoming-cianjur-earthquake-situation-ihani-prepared-become-facilitator",
+        "source": "Plan International",
+        "date": "2023-01-21T03:27:43+00:00"
+      },
+      {
+        "title": "Funding gaps threaten lives of nearly two million displaced in South Sudan",
+        "url": "https://reliefweb.int/report/south-sudan/funding-gaps-threaten-lives-nearly-2-million-displaced-south-sudan",
+        "source": "IOM",
+        "date": ""
+      },
+      {
+        "title": "Huge influx of aid urgently needed amid catastrophic conditions in Gaza",
+        "url": "https://reliefweb.int/report/occupied-palestinian-territory/huge-influx-aid-urgently-needed-amid-catastrophic-conditions-gaza",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "IRC clinics see a 52% rise in severe malnutrition cases in Somalia as drought deepens amid funding collapse",
+        "url": "https://reliefweb.int/report/somalia/irc-clinics-see-52-rise-severe-malnutrition-cases-somalia-drought-deepens-amidst-funding-collapse",
+        "source": "IRC",
+        "date": ""
+      },
+      {
+        "title": "Nearly 230,000 children out of school as worst flooding in decades hits Mozambique",
+        "url": "https://reliefweb.int/report/mozambique/more-230000-children-out-school-worst-flooding-decades-hits-schools-save-children",
+        "source": "Save the Children",
+        "date": ""
+      },
+      {
+        "title": "After a brutal winter, millions of Ukrainians face deepening displacement and uncertainty",
+        "url": "https://reliefweb.int/report/ukraine/after-brutal-winter-millions-ukrainians-face-deepening-displacement-and-uncertainty",
+        "source": "UNHCR",
+        "date": ""
+      },
+      {
+        "title": "MSF urges Sudan's warring parties to immediately spare civilians and humanitarian workers",
+        "url": "https://reliefweb.int/report/sudan/msf-urges-warring-parties-immediately-spare-civilians-and-humanitarian-workers",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "Urgent multisectoral action needed as 3.3 million Kenyans face acute hunger in ASAL counties",
+        "url": "https://reliefweb.int/report/kenya/urgent-33-million-kenyans-face-acute-hunger-multi-year-drought-devastates-asal-counties-urgent-multisectoral-action-needed-save-lives",
+        "source": "Action Against Hunger",
+        "date": ""
+      },
+      {
+        "title": "UN and partners launch $67.8 million cyclone flash appeal for Madagascar",
+        "url": "https://reliefweb.int/report/madagascar/united-nations-and-humanitarian-partners-launch-us678-million-cyclone-flash-appeal-madagascar-enfr",
+        "source": "OCHA",
+        "date": ""
+      },
+      {
+        "title": "Afghanistan Humanitarian Fund supports families facing a harsh winter",
+        "url": "https://reliefweb.int/report/afghanistan/afghanistan-humanitarian-fund-supports-families-facing-harsh-winter",
+        "source": "OCHA",
+        "date": "2026-03-01T07:53:19+00:00"
+      },
+      {
+        "title": "Syrian Arab Republic: Aleppo and Northeast Escalation Subdistrict-Level IDP Figures | 25 February 2026",
+        "url": "https://reliefweb.int/map/syrian-arab-republic/syrian-arab-republic-aleppo-and-northeast-escalation-subdistrict-level-idp-figures-25-february-2026",
+        "source": "OCHA",
+        "date": "2026-02-28T09:51:02+00:00"
+      }
+    ],
+    "total_headlines_all_updates": 30
+  },
+  {
+    "url": "https://reliefweb.int/disaster/eq-2008-000226-idn",
+    "title": "Indonesia: Earthquake - Nov 2008",
+    "country": "Indonesia",
+    "disaster_description": "On 17 Nov 2008, a powerful earthquake (7.7 on the Richter scale) hit Gorontalo Province on Indonesia's Sulawesi Island, killing six people and injuring 77 ( DPA, 18 Nov 2008 ) Buol Regency, in central Sulawesi, was among the hardest-hit areas. Twenty-five villages were seriously affected, with some 15,000 people displaced and 700 homes destroyed. ( CWS, 19 Nov 2008 )",
+    "alert_level": null,
+    "impact": {
+      "magnitude": 7.7,
+      "depth_km": null,
+      "deaths": null,
+      "injured": null,
+      "missing": null,
+      "displaced": 15000,
+      "affected_population": null,
+      "houses_destroyed": 700,
+      "houses_damaged": null,
+      "schools_affected": null,
+      "hospitals_affected": null,
+      "population_exposed_to_shaking": null
+    },
+    "headlines_from_main_page": [
+      {
+        "title": "Indonesia: Snapshot on Earthquake (Jan 2000 - Oct 2010)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-snapshot-earthquake-jan-2000-oct-2010",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Indonesia: Snapshot on Earthquakes (Dec 2004 - Oct 2009)",
+        "url": "https://reliefweb.int/map/indonesia/indonesia-snapshot-earthquakes-dec-2004-oct-2009",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "International cooperation on humanitarian assistance in the field of natural disasters, from relief to development - Report of the UN SG (A/64/331)",
+        "url": "https://reliefweb.int/report/myanmar/international-cooperation-humanitarian-assistance-field-natural-disasters-relief",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "M7.4 Sulawesi, Indonesia, Earthquake of 16 November 2008",
+        "url": "https://reliefweb.int/map/indonesia/m74-sulawesi-indonesia-earthquake-16-november-2008",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Indonesia: Tsunami response strengthens community coping",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-tsunami-response-strengthens-community-coping",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "7.3-magnitude earthquake leaves at least four dead on Indonesia's Sulawesi island",
+        "url": "https://reliefweb.int/report/indonesia/73-magnitude-earthquake-leaves-least-four-dead-indonesias-sulawesi-island",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Indonesia lifts tsunami warning after Sulawesi quake",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-lifts-tsunami-warning-after-sulawesi-quake",
+        "section": "Latest Updates"
+      }
+    ],
+    "view_all_updates_url": "https://reliefweb.int/updates?list=Indonesia%3A%20Earthquake%20-%20Nov%202008%20Updates&advanced-search=%28D4817%29",
+    "label": "Indonesia Earthquake Nov 2008",
+    "event_type": "Historical",
+    "total_headlines_main_page": 7,
+    "all_update_headlines": [
+      {
+        "title": "Indonesia: Snapshot on Earthquake (Jan 2000 - Oct 2010)",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-snapshot-earthquake-jan-2000-oct-2010",
+        "source": "OCHA",
+        "date": "2010-10-09T00:00:00+00:00"
+      },
+      {
+        "title": "Indonesia: Snapshot on Earthquakes (Dec 2004 - Oct 2009)",
+        "url": "https://reliefweb.int/map/indonesia/indonesia-snapshot-earthquakes-dec-2004-oct-2009",
+        "source": "ReliefWeb",
+        "date": "2009-10-06T04:00:00+00:00"
+      },
+      {
+        "title": "International cooperation on humanitarian assistance in the field of natural disasters, from relief to development - Report of the UN SG (A/64/331)",
+        "url": "https://reliefweb.int/report/myanmar/international-cooperation-humanitarian-assistance-field-natural-disasters-relief",
+        "source": "UN GA",
+        "date": "2009-08-27T04:00:00+00:00"
+      },
+      {
+        "title": "Principles of aid effectiveness in everyday practice: Georgia and Indonesia",
+        "url": "https://reliefweb.int/report/georgia/principles-aid-effectiveness-everyday-practice-georgia-and-indonesia",
+        "source": "Caritas",
+        "date": "2009-06-15T04:00:00+00:00"
+      },
+      {
+        "title": "Indonesia: Tsunami response strengthens community coping",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-tsunami-response-strengthens-community-coping",
+        "source": "IFRC",
+        "date": "2008-12-30T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia: Appeal No. MAAID002 Programme Update No. 02",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-appeal-no-maaid002-programme-update-no-02",
+        "source": "IFRC",
+        "date": "2008-12-12T05:00:00+00:00"
+      },
+      {
+        "title": "CWS Hotline - 24 Nov 2008: Haiti, Indonesia",
+        "url": "https://reliefweb.int/report/haiti/cws-hotline-24-nov-2008-haiti-indonesia",
+        "source": "CWS",
+        "date": "2008-11-24T05:00:00+00:00"
+      },
+      {
+        "title": "M7.4 Sulawesi, Indonesia, Earthquake of 16 November 2008",
+        "url": "https://reliefweb.int/map/indonesia/m74-sulawesi-indonesia-earthquake-16-november-2008",
+        "source": "USGS",
+        "date": "2008-11-20T00:00:00+00:00"
+      },
+      {
+        "title": "Indonesia: Thousands in tents after Sulawesi quake",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-thousands-tents-after-sulawesi-quake",
+        "source": "Jakarta Post",
+        "date": "2008-11-19T05:00:00+00:00"
+      },
+      {
+        "title": "CWS emergency situation report: Indonesia earthquake",
+        "url": "https://reliefweb.int/report/indonesia/cws-emergency-situation-report-indonesia-earthquake",
+        "source": "CWS",
+        "date": "2008-11-19T05:00:00+00:00"
+      },
+      {
+        "title": "Turkish Red Crescent's response to Indonesia earthquake",
+        "url": "https://reliefweb.int/report/indonesia/turkish-red-crescents-response-indonesia-earthquake",
+        "source": "Turkish Red Crescent",
+        "date": "2008-11-19T05:00:00+00:00"
+      },
+      {
+        "title": "Death toll in Indonesian quake rises to six",
+        "url": "https://reliefweb.int/report/indonesia/death-toll-indonesian-quake-rises-six",
+        "source": "DPA",
+        "date": "2008-11-18T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia says 10,000 displaced by earthquake",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-says-10000-displaced-earthquake",
+        "source": "ABC",
+        "date": "2008-11-18T05:00:00+00:00"
+      },
+      {
+        "title": "Thousands displaced after Indonesia's Sulawesi quake",
+        "url": "https://reliefweb.int/report/indonesia/thousands-displaced-after-indonesias-sulawesi-quake",
+        "source": "Reuters",
+        "date": "2008-11-18T05:00:00+00:00"
+      },
+      {
+        "title": "Emergency Situation Report on 17 Nov: Earthquake in Gorontalo Province, Republic of Indonesia",
+        "url": "https://reliefweb.int/report/indonesia/emergency-situation-report-17-nov-earthquake-gorontalo-province-republic-indonesia",
+        "source": "WHO",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia quake kills at least 4, tears down houses",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-quake-kills-least-4-tears-down-houses",
+        "source": "Reuters",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "7.3-magnitude earthquake leaves at least four dead on Indonesia's Sulawesi island",
+        "url": "https://reliefweb.int/report/indonesia/73-magnitude-earthquake-leaves-least-four-dead-indonesias-sulawesi-island",
+        "source": "CFE-DM",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia lifts tsunami warning after Sulawesi quake",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-lifts-tsunami-warning-after-sulawesi-quake",
+        "source": "Reuters",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia issues tsunami warning after quakes",
+        "url": "https://reliefweb.int/report/indonesia/indonesia-issues-tsunami-warning-after-quakes",
+        "source": "Reuters",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "Indonesia: Earthquake (as of 17 Nov 2008) - Location Map",
+        "url": "https://reliefweb.int/map/indonesia/indonesia-earthquake-17-nov-2008-location-map",
+        "source": "ReliefWeb",
+        "date": "2008-11-17T05:00:00+00:00"
+      },
+      {
+        "title": "Funding gaps threaten lives of nearly two million displaced in South Sudan",
+        "url": "https://reliefweb.int/report/south-sudan/funding-gaps-threaten-lives-nearly-2-million-displaced-south-sudan",
+        "source": "IOM",
+        "date": ""
+      },
+      {
+        "title": "Huge influx of aid urgently needed amid catastrophic conditions in Gaza",
+        "url": "https://reliefweb.int/report/occupied-palestinian-territory/huge-influx-aid-urgently-needed-amid-catastrophic-conditions-gaza",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "IRC clinics see a 52% rise in severe malnutrition cases in Somalia as drought deepens amid funding collapse",
+        "url": "https://reliefweb.int/report/somalia/irc-clinics-see-52-rise-severe-malnutrition-cases-somalia-drought-deepens-amidst-funding-collapse",
+        "source": "IRC",
+        "date": ""
+      },
+      {
+        "title": "Nearly 230,000 children out of school as worst flooding in decades hits Mozambique",
+        "url": "https://reliefweb.int/report/mozambique/more-230000-children-out-school-worst-flooding-decades-hits-schools-save-children",
+        "source": "Save the Children",
+        "date": ""
+      },
+      {
+        "title": "After a brutal winter, millions of Ukrainians face deepening displacement and uncertainty",
+        "url": "https://reliefweb.int/report/ukraine/after-brutal-winter-millions-ukrainians-face-deepening-displacement-and-uncertainty",
+        "source": "UNHCR",
+        "date": ""
+      },
+      {
+        "title": "MSF urges Sudan's warring parties to immediately spare civilians and humanitarian workers",
+        "url": "https://reliefweb.int/report/sudan/msf-urges-warring-parties-immediately-spare-civilians-and-humanitarian-workers",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "Urgent multisectoral action needed as 3.3 million Kenyans face acute hunger in ASAL counties",
+        "url": "https://reliefweb.int/report/kenya/urgent-33-million-kenyans-face-acute-hunger-multi-year-drought-devastates-asal-counties-urgent-multisectoral-action-needed-save-lives",
+        "source": "Action Against Hunger",
+        "date": ""
+      },
+      {
+        "title": "UN and partners launch $67.8 million cyclone flash appeal for Madagascar",
+        "url": "https://reliefweb.int/report/madagascar/united-nations-and-humanitarian-partners-launch-us678-million-cyclone-flash-appeal-madagascar-enfr",
+        "source": "OCHA",
+        "date": ""
+      },
+      {
+        "title": "Afghanistan Humanitarian Fund supports families facing a harsh winter",
+        "url": "https://reliefweb.int/report/afghanistan/afghanistan-humanitarian-fund-supports-families-facing-harsh-winter",
+        "source": "OCHA",
+        "date": "2026-03-01T07:53:19+00:00"
+      },
+      {
+        "title": "Syrian Arab Republic: Aleppo and Northeast Escalation Subdistrict-Level IDP Figures | 25 February 2026",
+        "url": "https://reliefweb.int/map/syrian-arab-republic/syrian-arab-republic-aleppo-and-northeast-escalation-subdistrict-level-idp-figures-25-february-2026",
+        "source": "OCHA",
+        "date": "2026-02-28T09:51:02+00:00"
+      }
+    ],
+    "total_headlines_all_updates": 30
+  },
+  {
+    "url": "https://reliefweb.int/disaster/eq-2025-000043-mmr",
+    "title": "Myanmar: Earthquake - Mar 2025",
+    "country": "China, Myanmar, Thailand",
+    "disaster_description": "A strong earthquake of 7.7 M at a depth of 10 km occurred on 28 March at 06.20 UTC (12.50 local time) in Sagaing Region, central Myanmar. The epicentre was located about 16 km north-north-west of Sagaing city, and 19 km north-west of Mandalay city. An aftershock of 6.4 M at a depth of 10 km occurred in the same area at 06.32 UTC. Sagaing is home to 1.3 million internally displaced persons (IDPs) – a third of all IDPs in Myanmar. USGS PAGER estimates that up to 7,000 people were exposed to violent shaking, up to 2,866,000 people to severe shaking, and up to 10,190,000 exposed to strong and very strong shaking. According to media reports, several buildings collapsed in Mandalay city, and buckling roads have been observed in Naypyidaw, the capital of Myanmar. The earthquake was felt in Bangkok and Chiang Mai cities in Thailand, where people have been evacuated from buildings, and in Yunnan and Shaanxi provinces in China. Aftershocks are continuing to be felt across the country. Myanmar has the fifth highest number of people in need of humanitarian assistance globally – 20 million, or about a third of the country. ( ECHO, 28 Mar 2025 ) As of 29 March 2025, the official death toll stood at over 1,600, with 3,408 people injured and over 200 people missing. According to early modelling by the United States Geological Survey (USGS), the final death toll could surpass 10,000 people. Initial estimates indicate that 18.3 million people, 4.04 million households, and USD 77.5 billion in infrastructure are concentrated within the affected area. The earthquake compounds the protracted crisis generated by armed conflict, political instability and disasters (large-scale flooding and heatwaves in 2024, among others). [...] In Sagaing Township, it is reported that over 70% of structures have sustained significant damage. Many residential buildings have either completely collapsed or were severely damaged. Two bridges between the Yangon – Naypyidaw highways were reported as being damaged, risking the disruption of critical transportation routes between Yangon and the most affected regions. ( IFRC, 30 Mar 2025 ) The World Health Organization (WHO) reports that as of 30 March, there are a total of 2,601 fatalities due to the earthquake, 1,790 in Mandalay city, 402 in the capital Naypyidaw, 314 in Sagaing city, 79 in Southern Shan state, 35 in Bago city, and 3,408 injured people. The worst affected areas are Bago, Magway, Mandalay, Naypyidaw, Shan South and East and Sagaing. Three hospitals have been destroyed and 22 have been partially damaged. According to media, as of 29 March, in Bangkok city area in Thailand, 17 people died, 83 are still missing and 32 have been injured due to a collapsed building. In Ruili city, in southeastern Yunnan province, in China, bordering eastern Myanmar, 2,840 people have been affected and 847 houses have been damaged.  ( ECHO, 31 Mar 2025 ) As of 1 April, media reports more than 3,000 fatalities. The worst affected area is Mandalay city with nearly 1,800 fatalities. UN OCHA and MSF report over 300 people still missing, some 3,900 injured, and more than 13,000 displaced across the country. More than 10,000 buildings collapsed or were severely damaged. The Myanmar military has continued to conduct air strikes against civilians in the aftermath of the earthquake – the military seized power in a coup in 2021 and the country is in active conflict. ( ECHO, 1 Apr 2025 ) As of 3 April, media reports 3,085 fatalities, 4,715 injured people, still 341 missing people. The AHA Centre reports that 21,783 houses have been affected, of which 15,114 have been destroyed, and that the state of emergency remains in effect for Mandalay, Sagaing Magway, Shan State, Naypyidaw, and Bago areas. Media also reports that the military government declared a temporary ceasefire to facilitate humanitarian support for the affected people. Several opposition forces had already said they would stop hostilities in the wake of the earthquake. According to the Asian Disaster Reduction Center (ADRC) report, in Thailand 20 fatalities, 35 injured people and 771 affected houses have been recorded. ( ECHO, 3 Apr 2025 ) The AHA Centre reports that as of 6 April, there are approximately 3,500 fatalities, 210 missing persons, more than 5,000 injured people, and around 69,100 displaced people, with the worst affected area being the Mandalay region. UN OCHA also reports over 17 million affected people across the country. [...] Despite a ceasefire announced on 2 April, over 30 attacks have been reported as taking place since then, including in earthquake-affected areas. ( ECHO, 7 Apr 2025 ) As of 8 April, media reports indicate over 3,600 deaths, 160 missing persons, 5,017 injured, and approximately 69,100 displaced individuals. The Mandalay region has been the hardest hit, while UN OCHA estimates that over 17.2 million people have been affected across the impacted areas. Humanitarian partners, supported by DG ECHO, are providing aid on the ground. In neighbouring Thailand, the earthquake has caused 23 fatalities and 36 injuries, according to the Asian Disaster Reduction Center (ADRC), with the Bangkok city area being the most severely affected. ( ECHO, 8 Apr 2025 ) More than 9 million people (including 2.7 million children) are estimated to be the worst affected across 58 townships in Bago East, Kayin, Magway, Mandalay, Nay Pyi Taw, Shan South, and Sagaing. Latest reports indicate continued infrastructure damage which include 193 healthcare facilities, and 2,311 schools.  There is a growing concern among communities about the risk of infectious diseases, due to improperly managed corpses and the lack of access to safe water and sanitation facilities. A cluster of mild to moderate acute watery diarrhoea (AWD) cases has been reported in Sagaing Township and urban areas of Mandalay. WASH cluster partners have so far identified over 42,000 damaged latrines and report significant damage to urban water systems and rural aquifers. Extreme heat - reaching 44°C (111°F) – and off-season rains are further exacerbating the situation for responders and survivors, many of whom are still sleeping outdoors. ( UNICEF, 9 Apr 2025 ) The death toll continues to rise in Myanmar and Thailand following the strong 7.7 magnitude earthquake that struck near Mandalay city on 28 March. In the past seven days, at least five additional earthquakes up to 4.8 magnitude have been recorded between Mandalay and the capital, Naypyidaw. In Myanmar, the AHA Centre reports 3,603 fatalities, 141 people still missing, and 4,817 injured. Nearly 200,000 people are currently displaced, with 40,896 of them staying in 127 temporary shelters. In Thailand, 30 people have died and 38 others have been injured. ( ECHO, 11 Apr 2025 ) A new earthquake of 5.5 M at a depth of 7.7 km occurred on 13 April at 02.24 UTC (08.54 local time) in the Mandalay region of central Myanmar. The epicentre was located about 34 km north-northeast of Meiktila city and 78 km south of Mandalay city. The United States Geological Survey (USGS) PAGER estimates that up to 86,000 people were exposed to severe shaking, while 631,000 were exposed to strong and very strong shaking. According to the AHA Centre, as of 12 April, the death toll continues to rise in both Myanmar and Thailand. In Myanmar, there are 3,648 fatalities, 134 missing people, and 4,817 injured people, with approximately 200,000 displaced, of whom 42,118 are in 134 temporary shelters. In Thailand, 42 people have died and 38 others have been injured. OCHA Myanmar, the WHO, and the UNEP/OCHA Joint Environment Unit have requested assistance from the Union Civil Protection Mechanism (UCPM). Six EU Member States have offered shelter and medical items. ( ECHO, 14 Apr 2025 ) With 640 healthcare facilities now registered as damaged and remaining health facilities overwhelmed and reporting critical shortages of medical supplies [...] Many families are still sleeping outside – exposed to extreme heat and off-season rains (which have already started), as well as vector-borne diseases, including dengue and malaria. [...] There has been widespread destruction of water systems, including broken boreholes and damaged piped networks, along with the collapse of over 76,000 latrines. There is a growing concern among communities about the risk of infectious diseases due to improperly managed corpses and the lack of access to safe water and sanitation facilities. A cluster of mild to moderate acute watery diarrhoea (AWD) cases has been reported in Sagaing township and urban areas of Mandalay, though no cases of cholera have been confirmed to date. [...] More than 2,600 schools have reportedly been damaged. ( UNICEF, 16 Apr 2025 ) Central Myanmar continues to experience frequent seismic activity almost daily. Since the destructive quakes, more than 140 aftershocks have been recorded, including two with 5.9 and 5.5 magnitude tremors near Nay Pyi Taw Union Territory and Wundwin Town on 29 March and 13 April, according to the Department of Meteorology and Hydrology. The United States Geological Survey indicates that aftershocks may persist for months following a major earthquake, especially in tectonically active regions like Myanmar. To date, 3,700 deaths have been reported, 4,800 people injured and 129 people remain missing, according to the ASEAN Coordinating Centre for Humanitarian Assistance on disaster management (AHA Centre). The real toll is likely much higher, with challenges in data collection, verification and processing and underreporting making it difficult to grasp the full scale of the disaster. ( OCHA, 18 Apr 2025 ) According to the Myanmar Red Cross Society (MRCS), as of 18 April, nearly 3,900 people have died, most of them in the Mandalay Region (2 483 fatalities), followed by Naypyidaw Union Territory (657), Sagaing Region (615), Bago Region (81), and Shan State (33). Additionally, 441 people remain missing and 5,742 have been injured. ( ECHO, 23 Apr 2025 ) Five weeks after the devastating earthquakes struck Myanmar on 28 March, many affected communities are still in urgent need of safe shelter, health care, clean water and sanitation, cash assistance and various forms of protection support. An early monsoon season has started with daily rains this week, exacerbating hardships for families living in tents and makeshift shelters, and increasing health risks. More than 6.3 million people are in need in the areas hardest-hit by the earthquakes, requiring a significant scale-up in response. The quick disbursement of pledged funding and sustained access to all communities is essential to increasing the reach of humanitarian assistance. ( OCHA, 4 May 2025 ) As of 7 May, official figures report 3,791 deaths, 5,106 injuries and 88 people missing. The estimated economic losses exceed USD 1.9 billion. Early rains and soaring temperatures are worsening conditions for displaced families still living in overcrowded makeshift shelters more than six weeks after the earthquake. With more than 55,000 homes damaged or destroyed, most households lack clean water, food, healthcare, and protection services. More than 2,500 schools were damaged or destroyed, affecting tens of thousands of learners. ( UNICEF, 9 May 2025 ) Seven weeks on, the impacts of the 28 March earthquakes in central Myanmar continue to drive significant humanitarian needs, both for immediate relief and early recovery. Many families remain displaced in temporary shelters or rental housing due to safety concerns, including fear of returning to structurally compromised homes, with limited sustainable long-term shelter solutions in sight. Despite heightened risks due to unsafe drinking water and poor sanitation, no major disease outbreaks have been reported. Disruptions to food supply chains, health services, and livelihoods have reduced access to nutritious food, especially for families already affected by poverty and displacement. The Flash Addendum to the 2025 Humanitarian Needs and Response Plan was issued on 11 April calling for US$275 million to reach 1.1 million people with urgent aid. As of 16 May, only US$44.2 million has been disbursed. ( OCHA, 17 May 2025 ) [...] updated impact information on the M7.7 Mandalay Earthquake in Myanmar, based on DDM Myanmar report as of 9 June at 18:30 hrs utc+7, indicates that a total of 3,740 fatalities have been recorded, with 66 individuals missing and 5,104 others injured. Approximately 506,069 people have been affected, including 18.2K displaced persons currently residing in 103 evacuation centres, and 265.1K individuals who have sought shelter with relatives. Reported damages include the approximately 11,993 houses (totally damaged) and over 39,977 houses (partially damaged), 2,604 schools, 789 hospitals, 5,856 religious buildings, 6,502 pagodas, as well as 10,669 offices and other buildings. The estimated economic losses are approximately USD 1.7 billion. ( AHA Centre, 9 Jun 2025 ) Nearly three months after the earthquake struck Myanmar, affected communities are still facing serious difficulties in accessing essential services and supplies, including adequate shelter, food, essential items, and healthcare. Due to ongoing heavy rainfall, more than 1,000 acres of paddy fields and other crops have been flooded in Shan South, and many farmers have lost their entire yield right in the middle of harvest season due to the flooding. Rising water levels around Inle Lake have also affected temporary shelters set up for individuals displaced by the earthquake. As the rain continues in Shan South, water levels in Inle Lake are expected to rise further, likely worsening the flooding situation. ( UNHCR, 19 Jun 2025 ) [...] updated impact information on the M7.7 Mandalay Earthquake in Myanmar, based on DDM Myanmar report as of 2 July at 18:30 hrs UTC+7, recorded a total of 3,768 fatalities, 38 individuals missing, and 5,104 injured. Approximately 281K individuals remained displaced. A total of 100 temporary shelters remain active. Estimated economic losses amounted to USD 1.6 billion. ( AHA Centre, 7 Jul 2025 ) Over 100 days after the earthquakes hit Myanmar on 28 March 2025, communities continue to grapple with the aftermath, as well as the ongoing military conflict and flooding. Of the 6.3 million people identified with urgent needs after the earthquakes, 1.8 million of the most vulnerable were prioritized for assistance. Humanitarian partners have delivered aid to 1 million people to date, reaching 57 per cent of the target. As of 12 June, 12 camp sites remain operational — 10 in Mandalay and 2 in Sagaing — as Myanmar transitions into the early recovery phase. However, overcrowded shelters, underreporting, poor lighting, and shared sanitation exacerbate GBV risks for vulnerable populations, especially women, girls, persons with disabilities, and older people. [...] Movement restrictions and security concerns and checkpoints continue to pose significant operational challenges, especially in hard-to-reach areas. Recent restrictions on the movement of supplies, particularly from Mandalay to Sagaing, affect partners’ operations and supply chains. Contingency planning and prepositioning are crucial to ensure continued humanitarian service delivery. ( UNFPA, 11 Aug 2025 ) More than four months after two earthquakes struck central Myanmar on 28 March, humanitarian partners have reached nearly 1.3 million people across Mandalay, Nay Pyi Taw, Sagaing, and other affected areas with at least one form of assistance. This represents 72 per cent of the 1.8 million people targeted for aid. But due to underfunding, the assistance has not been at the depth, frequency or quality that was planned, at times forcing humanitarians to prioritize lower-cost response activities. [...] Early recovery efforts have gained momentum, with assistance reaching over 95,000 people (more than 30,000 households) to help communities recover and rebuild. The response has focused on restoring equitable access to essential services, supporting resilient livelihoods, and promoting inclusive, community-led recovery. ( OCHA, 14 Aug 2025 )",
+    "alert_level": null,
+    "impact": {
+      "magnitude": 7.7,
+      "depth_km": 10,
+      "deaths": 3900,
+      "injured": 5104,
+      "missing": 341,
+      "displaced": 200000,
+      "affected_population": 17000000,
+      "houses_destroyed": 15114,
+      "houses_damaged": 55000,
+      "schools_affected": 2604,
+      "hospitals_affected": 789,
+      "population_exposed_to_shaking": 10190000
+    },
+    "headlines_from_main_page": [
+      {
+        "title": "Myanmar Earthquake: HNRP Flash Addendum - Issued April 2025",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-earthquake-hnrp-flash-addendum-issued-april-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Myanmar earthquake emergency - UNHCR response to urgent needs of displaced people and host communities (April - December 2025)",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-earthquake-emergency-unhcr-response-urgent-needs-displaced-people-and-host-communities-april-december-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "IOM Flash Appeal Myanmar Earthquake Response | Early Recovery Amendment (29 March - 31 December 2025)",
+        "url": "https://reliefweb.int/report/myanmar/iom-flash-appeal-myanmar-earthquake-response-early-recovery-amendment-29-march-31-december-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "IOM Flash Appeal Myanmar Earthquake Response (29 March 2025 - 30 June 2025)",
+        "url": "https://reliefweb.int/report/myanmar/iom-flash-appeal-myanmar-earthquake-response-29-march-2025-30-june-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Myanmar Earthquake Flash Appeal (April 2025 - September 2025)",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-earthquake-flash-appeal-april-2025-september-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Myanmar, Asia Pacific | Myanmar Earthquake - Emergency Appeal (MDRMM023)",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-asia-pacific-myanmar-earthquake-emergency-appeal-mdrmm023",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "End of Mission Report United Nations Disaster Assessment & Coordination (UNDAC) - Earthquake 7.7M Response - Myanmar (29Mar-16Apr 2025)",
+        "url": "https://reliefweb.int/report/myanmar/end-mission-report-united-nations-disaster-assessment-coordination-undac-earthquake-77m-response-myanmar-29mar-16apr-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "GIEWS Country Brief: Myanmar 20-February-2026",
+        "url": "https://reliefweb.int/report/myanmar/giews-country-brief-myanmar-20-february-2026",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "UNICEF Myanmar Humanitarian Situation Report No. 4, January-December 2025",
+        "url": "https://reliefweb.int/report/myanmar/unicef-myanmar-humanitarian-situation-report-no-4-january-december-2025",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Asia and the Pacific Regional Humanitarian Overview 2025 (As of 31 January 2026)",
+        "url": "https://reliefweb.int/report/afghanistan/asia-and-pacific-regional-humanitarian-overview-2025-31-january-2026",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Earthquakes global overview | 1 January – 31 December 2025 - DG ECHO Daily Map | 12/01/2026",
+        "url": "https://reliefweb.int/map/world/earthquakes-global-overview-1-january-31-december-2025-dg-echo-daily-map-12012026",
+        "section": "Appeals And Response Plans"
+      },
+      {
+        "title": "Myanmar: Insights from MIMU HDP Nexus 5W - Earthquake Response, August 2025 Round",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-insights-mimu-hdp-nexus-5w-earthquake-response-august-2025-round",
+        "section": "Appeals And Response Plans"
+      }
+    ],
+    "view_all_updates_url": "https://reliefweb.int/updates?list=Myanmar%3A%20Earthquake%20-%20Mar%202025%20Updates&advanced-search=%28D52324%29",
+    "label": "Myanmar Earthquake Mar 2025",
+    "event_type": "Recent",
+    "total_headlines_main_page": 12,
+    "all_update_headlines": [
+      {
+        "title": "End of Mission Report United Nations Disaster Assessment & Coordination (UNDAC) - Earthquake 7.7M Response - Myanmar (29Mar-16Apr 2025)",
+        "url": "https://reliefweb.int/report/myanmar/end-mission-report-united-nations-disaster-assessment-coordination-undac-earthquake-77m-response-myanmar-29mar-16apr-2025",
+        "source": "OCHA",
+        "date": "2026-02-23T10:58:24+00:00"
+      },
+      {
+        "title": "GIEWS Country Brief: Myanmar 20-February-2026",
+        "url": "https://reliefweb.int/report/myanmar/giews-country-brief-myanmar-20-february-2026",
+        "source": "FAO",
+        "date": "2026-02-20T13:48:09+00:00"
+      },
+      {
+        "title": "UNICEF Myanmar Humanitarian Situation Report No. 4, January-December 2025",
+        "url": "https://reliefweb.int/report/myanmar/unicef-myanmar-humanitarian-situation-report-no-4-january-december-2025",
+        "source": "UNICEF",
+        "date": "2026-02-18T03:19:27+00:00"
+      },
+      {
+        "title": "Asia and the Pacific Regional Humanitarian Overview 2025 (As of 31 January 2026)",
+        "url": "https://reliefweb.int/report/afghanistan/asia-and-pacific-regional-humanitarian-overview-2025-31-january-2026",
+        "source": "OCHA",
+        "date": "2026-02-11T02:38:19+00:00"
+      },
+      {
+        "title": "EU allocates €63 million in response to the crisis in Myanmar and its impact on neighbouring countries",
+        "url": "https://reliefweb.int/report/myanmar/eu-allocates-eu63-million-response-crisis-myanmar-and-its-impact-neighbouring-countries-0",
+        "source": "ECHO",
+        "date": "2026-01-30T11:33:15+00:00"
+      },
+      {
+        "title": "Evaluation of the 2025 Myanmar Earthquake Response",
+        "url": "https://reliefweb.int/report/myanmar/evaluation-2025-myanmar-earthquake-response",
+        "source": "Humanitarian Outcomes",
+        "date": "2026-01-27T15:03:08+00:00"
+      },
+      {
+        "title": "How CERF support helped deliver health care in Myanmar’s earthquake-affected areas",
+        "url": "https://reliefweb.int/report/myanmar/how-cerf-support-helped-deliver-health-care-myanmars-earthquake-affected-areas",
+        "source": "WHO",
+        "date": "2026-01-23T13:26:15+00:00"
+      },
+      {
+        "title": "Malgré les coupes budgétaires, le HCR a répondu à de multiples situations d'urgence complexes au cours de l’année 2025",
+        "url": "https://reliefweb.int/report/world/malgre-les-coupes-budgetaires-le-hcr-repondu-de-multiples-situations-durgence-complexes-au-cours-de-lannee-2025",
+        "source": "UNHCR",
+        "date": "2026-01-22T01:12:16+00:00"
+      },
+      {
+        "title": "2025 Impact Report - Response to new emergencies and protracted crises [EN/AR]",
+        "url": "https://reliefweb.int/report/world/2025-impact-report-response-new-emergencies-and-protracted-crises-enar",
+        "source": "UNHCR",
+        "date": "2026-01-19T14:51:11+00:00"
+      },
+      {
+        "title": "Market Analysis Unit: Rapid Market Assessment (November 2025)",
+        "url": "https://reliefweb.int/report/myanmar/market-analysis-unit-rapid-market-assessment-november-2025",
+        "source": "MIMU",
+        "date": "2026-01-15T14:08:21+00:00"
+      },
+      {
+        "title": "Community perceptions in earthquake-affected areas in Mandalay and southern Shan, Myanmar (November 2025)",
+        "url": "https://reliefweb.int/report/myanmar/community-perceptions-earthquake-affected-areas-mandalay-and-southern-shan-myanmar-november-2025",
+        "source": "Ground Truth Solutions",
+        "date": "2026-01-14T13:36:41+00:00"
+      },
+      {
+        "title": "Climate change presses on: Devastating wildfires and intense thunderstorms exacerbate losses for insurers",
+        "url": "https://reliefweb.int/report/world/climate-change-presses-devastating-wildfires-and-intense-thunderstorms-exacerbate-losses-insurers",
+        "source": "Munich Re",
+        "date": "2026-01-13T14:03:08+00:00"
+      },
+      {
+        "title": "Earthquakes global overview | 1 January – 31 December 2025 - DG ECHO Daily Map | 12/01/2026",
+        "url": "https://reliefweb.int/map/world/earthquakes-global-overview-1-january-31-december-2025-dg-echo-daily-map-12012026",
+        "source": "ECHO",
+        "date": "2026-01-12T17:17:18+00:00"
+      },
+      {
+        "title": "Answering the Call: Safe Water Flowing After Myanmar Earthquake",
+        "url": "https://reliefweb.int/report/myanmar/answering-call-safe-water-flowing-after-myanmar-earthquake",
+        "source": "Water Mission",
+        "date": "2025-12-16T00:00:00+00:00"
+      },
+      {
+        "title": "Humanitarian Needs and Response Plan: Myanmar Humanitarian Programme Cycle 2026 - Early Recovery Cluster Strategy",
+        "url": "https://reliefweb.int/report/myanmar/humanitarian-needs-and-response-plan-myanmar-humanitarian-programme-cycle-2026-early-recovery-cluster-strategy",
+        "source": "GCER",
+        "date": "2025-12-10T06:33:24+00:00"
+      },
+      {
+        "title": "Humanitarian Action for Children 2026 - Myanmar",
+        "url": "https://reliefweb.int/report/myanmar/humanitarian-action-children-2026-myanmar",
+        "source": "UNICEF",
+        "date": "2025-12-10T02:26:55+00:00"
+      },
+      {
+        "title": "Market Analysis Unit: Rapid Market Assessment (October 2025)",
+        "url": "https://reliefweb.int/report/myanmar/market-analysis-unit-rapid-market-assessment-october-2025",
+        "source": "MIMU",
+        "date": "2025-12-09T01:58:52+00:00"
+      },
+      {
+        "title": "Myanmar Economic Monitor, Dec 2025: Surviving, Not Thriving [EN/MY]",
+        "url": "https://reliefweb.int/report/myanmar/myanmar-economic-monitor-dec-2025-surviving-not-thriving-enmy",
+        "source": "World Bank",
+        "date": "2025-12-09T00:52:31+00:00"
+      },
+      {
+        "title": "“How can we rebuild when our best efforts are just washed away?” Community perceptions in earthquake-affected areas in Sagaing, Myanmar (November2025)",
+        "url": "https://reliefweb.int/report/myanmar/how-can-we-rebuild-when-our-best-efforts-are-just-washed-away-community-perceptions-earthquake-affected-areas-sagaing-myanmar-november2025",
+        "source": "Ground Truth Solutions",
+        "date": "2025-12-03T10:14:17+00:00"
+      },
+      {
+        "title": "Snapshot: Information environment in Myanmar post-earthquake (November 2025) [EN/MY]",
+        "url": "https://reliefweb.int/report/myanmar/snapshot-information-environment-myanmar-post-earthquake-november-2025-enmy",
+        "source": "CDAC",
+        "date": "2025-11-30T00:00:00+00:00"
+      },
+      {
+        "title": "Funding gaps threaten lives of nearly two million displaced in South Sudan",
+        "url": "https://reliefweb.int/report/south-sudan/funding-gaps-threaten-lives-nearly-2-million-displaced-south-sudan",
+        "source": "IOM",
+        "date": ""
+      },
+      {
+        "title": "Huge influx of aid urgently needed amid catastrophic conditions in Gaza",
+        "url": "https://reliefweb.int/report/occupied-palestinian-territory/huge-influx-aid-urgently-needed-amid-catastrophic-conditions-gaza",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "IRC clinics see a 52% rise in severe malnutrition cases in Somalia as drought deepens amid funding collapse",
+        "url": "https://reliefweb.int/report/somalia/irc-clinics-see-52-rise-severe-malnutrition-cases-somalia-drought-deepens-amidst-funding-collapse",
+        "source": "IRC",
+        "date": ""
+      },
+      {
+        "title": "Nearly 230,000 children out of school as worst flooding in decades hits Mozambique",
+        "url": "https://reliefweb.int/report/mozambique/more-230000-children-out-school-worst-flooding-decades-hits-schools-save-children",
+        "source": "Save the Children",
+        "date": ""
+      },
+      {
+        "title": "After a brutal winter, millions of Ukrainians face deepening displacement and uncertainty",
+        "url": "https://reliefweb.int/report/ukraine/after-brutal-winter-millions-ukrainians-face-deepening-displacement-and-uncertainty",
+        "source": "UNHCR",
+        "date": ""
+      },
+      {
+        "title": "MSF urges Sudan's warring parties to immediately spare civilians and humanitarian workers",
+        "url": "https://reliefweb.int/report/sudan/msf-urges-warring-parties-immediately-spare-civilians-and-humanitarian-workers",
+        "source": "MSF",
+        "date": ""
+      },
+      {
+        "title": "Urgent multisectoral action needed as 3.3 million Kenyans face acute hunger in ASAL counties",
+        "url": "https://reliefweb.int/report/kenya/urgent-33-million-kenyans-face-acute-hunger-multi-year-drought-devastates-asal-counties-urgent-multisectoral-action-needed-save-lives",
+        "source": "Action Against Hunger",
+        "date": ""
+      },
+      {
+        "title": "UN and partners launch $67.8 million cyclone flash appeal for Madagascar",
+        "url": "https://reliefweb.int/report/madagascar/united-nations-and-humanitarian-partners-launch-us678-million-cyclone-flash-appeal-madagascar-enfr",
+        "source": "OCHA",
+        "date": ""
+      },
+      {
+        "title": "Afghanistan Humanitarian Fund supports families facing a harsh winter",
+        "url": "https://reliefweb.int/report/afghanistan/afghanistan-humanitarian-fund-supports-families-facing-harsh-winter",
+        "source": "OCHA",
+        "date": "2026-03-01T07:53:19+00:00"
+      },
+      {
+        "title": "Syrian Arab Republic: Aleppo and Northeast Escalation Subdistrict-Level IDP Figures | 25 February 2026",
+        "url": "https://reliefweb.int/map/syrian-arab-republic/syrian-arab-republic-aleppo-and-northeast-escalation-subdistrict-level-idp-figures-25-february-2026",
+        "source": "OCHA",
+        "date": "2026-02-28T09:51:02+00:00"
+      }
+    ],
+    "total_headlines_all_updates": 30
+  },
+  {
+    "url": "https://reliefweb.int/disaster/eq-2012-000112-chn",
+    "title": "China: Earthquake in Xinjiang Region - Jun 2012",
+    "country": "China",
+    "disaster_description": "More than 155,000 people had been affected after a 6.6-magnitude quake jolted northwest China's Xinjiang Uygur Autonomous Region on 30 Jun 2012. The number of injured people climbed to 52 and 48,000 people had been evacuated. The quakes also tore down 7,500 houses and damaged another 64,000 houses. ( Xinhua, 01 Jul 2012 )",
+    "alert_level": null,
+    "impact": {
+      "magnitude": 6.6,
+      "depth_km": null,
+      "deaths": null,
+      "injured": null,
+      "missing": null,
+      "displaced": null,
+      "affected_population": 155000,
+      "houses_destroyed": null,
+      "houses_damaged": 64000,
+      "schools_affected": null,
+      "hospitals_affected": null,
+      "population_exposed_to_shaking": null
+    },
+    "headlines_from_main_page": [
+      {
+        "title": "China: Annual Report 2012 (MAACN001)",
+        "url": "https://reliefweb.int/report/china/china-annual-report-2012-maacn001",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "Natural disasters in China showed 6 features in 2012",
+        "url": "https://reliefweb.int/report/china/natural-disasters-china-showed-6-features-2012",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "East Asia (MAA54001) Mid-Year Report 2012",
+        "url": "https://reliefweb.int/report/democratic-peoples-republic-korea/east-asia-maa54001-mid-year-report-2012",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "China: Earthquake (as of 01 July 2012) - Location Map",
+        "url": "https://reliefweb.int/map/china/china-earthquake-01-july-2012-location-map",
+        "section": "Latest Updates"
+      },
+      {
+        "title": "155,000 people affected after Xinjiang quake",
+        "url": "https://reliefweb.int/report/china/155000-people-affected-after-xinjiang-quake",
+        "section": "Latest Updates"
+      }
+    ],
+    "view_all_updates_url": "https://reliefweb.int/updates?list=China%3A%20Earthquake%20in%20Xinjiang%20Region%20-%20Jun%202012%20Updates&advanced-search=%28D10813%29",
+    "label": "China Earthquake Jun 2012",
+    "event_type": "Historical",
+    "total_headlines_main_page": 5,
+    "all_update_headlines": [
+      {
+        "title": "China: Annual Report 2012 (MAACN001)",
+        "url": "https://reliefweb.int/report/china/china-annual-report-2012-maacn001",
+        "source": "IFRC",
+        "date": "2013-05-08T10:31:17+00:00"
+      },
+      {
+        "title": "Natural disasters in China showed 6 features in 2012",
+        "url": "https://reliefweb.int/report/china/natural-disasters-china-showed-6-features-2012",
+        "source": "Govt. China",
+        "date": "2013-01-07T12:26:37+00:00"
+      },
+      {
+        "title": "East Asia (MAA54001) Mid-Year Report 2012",
+        "url": "https://reliefweb.int/report/democratic-peoples-republic-korea/east-asia-maa54001-mid-year-report-2012",
+        "source": "IFRC",
+        "date": "2012-09-04T09:28:02+00:00"
+      },
+      {
+        "title": "China (MAACN001) Mid-Year Report 2012",
+        "url": "https://reliefweb.int/report/china/china-maacn001-mid-year-report-2012",
+        "source": "IFRC",
+        "date": "2012-08-29T00:00:00+00:00"
+      },
+      {
+        "title": "IDP News Alert, 25 July 2012",
+        "url": "https://reliefweb.int/report/mali/idp-news-alert-25-july-2012",
+        "source": "IDMC",
+        "date": "2012-07-25T13:05:33+00:00"
+      },
+      {
+        "title": "Central gov't allocates 122 mln USD for disaster relief fund",
+        "url": "https://reliefweb.int/report/china/central-govt-allocates-122-mln-usd-disaster-relief-fund",
+        "source": "Xinhua",
+        "date": "2012-07-20T09:54:33+00:00"
+      },
+      {
+        "title": "Relief efforts in quake-hit Xinjiang ongoing",
+        "url": "https://reliefweb.int/report/china/relief-efforts-quake-hit-xinjiang-ongoing",
+        "source": "Xinhua",
+        "date": "2012-07-04T01:01:55+00:00"
+      },
+      {
+        "title": "Xinjiang Earthquake 2012: Work Report 1",
+        "url": "https://reliefweb.int/report/china/xinjiang-earthquake-2012-work-report-1",
+        "source": "HKRC",
+        "date": "2012-07-02T04:32:40+00:00"
+      },
+      {
+        "title": "China: Earthquake (as of 01 July 2012) - Location Map",
+        "url": "https://reliefweb.int/map/china/china-earthquake-01-july-2012-location-map",
+        "source": "OCHA",
+        "date": "2012-07-02T00:00:00+00:00"
+      },
+      {
+        "title": "155,000 people affected after Xinjiang quake",
+        "url": "https://reliefweb.int/report/china/155000-people-affected-after-xinjiang-quake",
+        "source": "Xinhua",
+        "date": "2012-07-01T23:58:26+00:00"
+      },
+      {
+        "title": "35 injured, 64,500 people affected in Xinjiang quake",
+        "url": "https://reliefweb.int/report/china/35-injured-64500-people-affected-xinjiang-quake",
+        "source": "Xinhua",
+        "date": "2012-06-30T04:00:00+00:00"
+      }
+    ],
+    "total_headlines_all_updates": 11
+  }
+]

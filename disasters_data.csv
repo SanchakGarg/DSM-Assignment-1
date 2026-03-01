@@ -1,0 +1,5 @@
+Event Label,Event Type,Title,Country,URL,Alert Level,Magnitude,Depth (km),Deaths,Injured,Missing,Displaced,Affected Population,Population Exposed to Shaking,Houses Destroyed,Houses Damaged,Schools Affected,Hospitals Affected,Total Reports (Main Page),Total Reports (All Updates)
+Indonesia Earthquake Nov 2022,Recent,Indonesia: Earthquake - Nov 2022,Indonesia,https://reliefweb.int/disaster/eq-2022-000363-idn,,5.6,10,327,68,13,108700,,242000,62000,,701,,9,30
+Indonesia Earthquake Nov 2008,Historical,Indonesia: Earthquake - Nov 2008,Indonesia,https://reliefweb.int/disaster/eq-2008-000226-idn,,7.7,,,,,15000,,,700,,,,7,30
+Myanmar Earthquake Mar 2025,Recent,Myanmar: Earthquake - Mar 2025,"China, Myanmar, Thailand",https://reliefweb.int/disaster/eq-2025-000043-mmr,,7.7,10,3900,5104,341,200000,17000000,10190000,15114,55000,2604,789,12,30
+China Earthquake Jun 2012,Historical,China: Earthquake in Xinjiang Region - Jun 2012,China,https://reliefweb.int/disaster/eq-2012-000112-chn,,6.6,,,,,,155000,,,64000,,,5,11
